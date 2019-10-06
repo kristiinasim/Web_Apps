@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+div { marigin: 0 0 2em 0 ; width :20em ; border: 
+0.1em solid black ; background : orange }
+
+div.inner { marigin : 0 ; width : 10em;
+background : yellow }
+
+div.center { margin : auto ; background : aqua }
+
+div.center-text { text-align : center ; background: lime}
+

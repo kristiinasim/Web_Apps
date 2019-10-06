@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Border */
+p.bdr { border : 5px outset red}
+
+/*Margin size*/
+p.mgn { margin : 1em} 
+
+/*Text Style*/
+p.txt { font: 2em fantasy }
+
+p.pad { padding : 0.5em}
+
+p.bg { background : yellow}
+

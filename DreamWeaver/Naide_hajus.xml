@@ -1,0 +1,14 @@
+<![CDATA[  ]]>
+
+<person>
+<firstName> Kristiina</firstName>
+
+<comments> </comments>
+<contacts> 
+	<contact type = "email"></contact>
+	<contact type = "mobile"></contact>
+	<contact type = "work"></contact>
+	</contacts>
+	 
+</person>
+Text<b> bold </b> <i> italic </i>
